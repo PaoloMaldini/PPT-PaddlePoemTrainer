@@ -23,11 +23,7 @@
    cd yourprojectname
    ```
 
-2. **安装依赖**
 
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 3. **准备模型文件**
 
@@ -37,7 +33,7 @@
 4. **运行项目**
 
    ```bash
-   python app.py
+   python Gradio.py
    ```
 
 ## 功能介绍
@@ -61,7 +57,7 @@
 
 ## 文件结构
 
-- `app.py`：项目主文件，包含Gradio界面和功能实现。
+- `Gradio.py`：项目主文件，包含Gradio界面和功能实现。
 - `best_model_epoch_1.pdparams`：训练好的模型文件。
 - `word_vec_SC.txt`，`SC_word_to_idx.pkl`，`SC_idx_to_word.pkl`：词汇文件和映射。
 
