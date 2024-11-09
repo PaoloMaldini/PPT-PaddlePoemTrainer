@@ -19,8 +19,8 @@
 1. **克隆项目**
 
    ```bash
-   git clone https://github.com/yourusername/yourprojectname.git
-   cd yourprojectname
+   git clone https://github.com/PaoloMaldini/PPT-PaddlePoemTrainer.git
+   cd PPT-PaddlePoemTrainer.git
    ```
 
 
